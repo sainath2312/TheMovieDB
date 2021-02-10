@@ -146,7 +146,7 @@
 			isa = PBXGroup;
 			children = (
 				CE68A83A25D4188500FADE7F /* Utilities */,
-				CE68A83925D4186A00FADE7F /* Constnts */,
+				CE68A83925D4186A00FADE7F /* Constants */,
 				CE68A83825D4185C00FADE7F /* Extensions */,
 				CE68A83725D4185500FADE7F /* Model */,
 				CE68A83625D4184C00FADE7F /* View */,
@@ -239,14 +239,14 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		CE68A83925D4186A00FADE7F /* Constnts */ = {
+		CE68A83925D4186A00FADE7F /* Constants */ = {
 			isa = PBXGroup;
 			children = (
 				CE68A84025D418ED00FADE7F /* AppConstants.swift */,
 				CE68A83E25D418ED00FADE7F /* Global.swift */,
 				CE68A83F25D418ED00FADE7F /* Services.swift */,
 			);
-			path = Constnts;
+			path = Constants;
 			sourceTree = "<group>";
 		};
 		CE68A83A25D4188500FADE7F /* Utilities */ = {
